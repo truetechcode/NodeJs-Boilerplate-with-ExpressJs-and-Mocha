@@ -28,7 +28,8 @@ module.exports = function () {
         useNewUrlParser: true,
         useCreateIndex: true
       }
-    );
+    ).then(() => console.log('Database Connection Successful!!'))
+      .catch(err => console.error(err));
 
     // Set up routes
     routes.init(server);
