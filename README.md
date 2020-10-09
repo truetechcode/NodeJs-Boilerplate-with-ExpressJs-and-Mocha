@@ -3,7 +3,7 @@
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
 
-<h3 align="center">api</h3>
+<h3 align="center">Epress Js Boilerplate with Mocha Testrunner</h3>
 
 <div align="center">
 
@@ -45,23 +45,26 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them.
 
 ```
-Give examples
+Nodejs
+NPM / Yarn
 ```
 
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
+- Install Dependencies
 
 ```
-Give the example
+npm install
+or
+yarn install
 ```
 
-And repeat
+- Run Server
 
 ```
-until finished
+npm start
 ```
 
 End with an example of getting some data out of the system or using it for a little demo.
@@ -98,12 +101,12 @@ Add additional notes about how to deploy this on a live system.
 
 - [MongoDB](https://www.mongodb.com/) - Database
 - [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
+- [Mocha](https://vuejs.org/) - Testing Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [@truetechcode](https://github.com/truetechcode) - Idea & Initial work
 
 See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
