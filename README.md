@@ -8,8 +8,6 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -78,7 +76,7 @@ Explain how to run the automated tests for this system.
 Explain what these tests test and why
 
 ```
-Give an example
+Some example coming
 ```
 
 ### And coding style tests
@@ -86,7 +84,7 @@ Give an example
 Explain what these tests test and why
 
 ```
-Give an example
+Some example coming
 ```
 
 ## 🎈 Usage <a name="usage"></a>
@@ -108,10 +106,7 @@ Add additional notes about how to deploy this on a live system.
 
 - [@truetechcode](https://github.com/truetechcode) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
-
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- References
+- Inspiration [kylelobo](https://github.com/kylelobo/)
