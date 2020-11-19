@@ -32,11 +32,11 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+I build this ExpressJS boilerplate to help me setup future projects fast, and it is open for anyone interested in building an Express JS backend to use.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](https://expressjs.com/) for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
@@ -63,28 +63,6 @@ yarn install
 
 ```
 npm start
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Some example coming
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Some example coming
 ```
 
 ## 🎈 Usage <a name="usage"></a>
